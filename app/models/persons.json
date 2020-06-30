@@ -1,0 +1,11 @@
+[
+    {"name": "emilio", 
+    "age": 19,
+    "position": "Full stack"},
+    {"name": "Carlos", 
+    "age": 30,
+    "position": "Profesor"},
+    {"name": "Santiago", 
+    "age": 19,
+    "position": "Back end"}
+]

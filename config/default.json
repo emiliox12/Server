@@ -1,0 +1,4 @@
+{
+    "deployPort": 8080,
+    "requestBodySize": "50mb"
+}
